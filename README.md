@@ -2,15 +2,15 @@
 
 Below is a list of my live WordPress websites:
 
-1. **Website 1**
+1.  **Website 1**
    - **URL**: https://websitecomrades.com/
    - **Description**: This website offers comprehensive development services including SEO, PPC, design, development, Amazon management, brand management, and content management.
 
-2. **Website 2**
+2.  **Website 2**
    - **URL**: https://precisetech-group.co.uk/
    - **Description**: This website provides a wide range of services including SEO/PPC, e-book writing, creative writing, graphic designing, Wikipedia creation, website development, software development, social media marketing, and editing and proofreading.
 
-3. **Website 3**
+3.  **Website 3**
    - **URL**: https://bestwebdevelopers.co.uk/
    - **Description**:  I developed this website to offer a comprehensive range of services including SEO (local SEO, YouTube SEO, e-commerce SEO, technical SEO & consultancy in London), development (WordPress development, mobile app development, e-commerce website development, software development services), design (animation, web design, logo design, UI/UX design, graphics & stationery design), brand management (digital marketing, brand reputation, social media marketing & management), PPC (Google Ads, Google Shopping, PPC consultancy, display advertising), Amazon management (product sourcing, launching & ranking, Amazon paid marketing, Amazon account management), content management (articles writing, creative writing, business writing, web content writing), and hosting & migration (web hosting, website migration, buy domain & domain name migration).
 
